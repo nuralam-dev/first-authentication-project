@@ -25,7 +25,7 @@ export default function Navbar() {
         <Link href="#">Features</Link>
       </li>
       <li>
-        <Link href="#" className="font-medium text-accent" aria-current="page">
+        <Link href="/src/app/dashboard" className="font-medium text-accent" aria-current="page">
           Dashboard
         </Link>
       </li>
